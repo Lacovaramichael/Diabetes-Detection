@@ -1,4 +1,4 @@
-# Diabetes-Detection
+# Diabetes Detection
 
 ## Project Goal
 The purpose of this project was to create a mathematical model that would correctly diagnosis a patient as having diabetes or not.
