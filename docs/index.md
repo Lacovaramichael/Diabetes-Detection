@@ -6,5 +6,7 @@ The purpose of this project was to create a mathematical model that would correc
 # Project Methods
 This project utilized Python and the Pima Indians Diabetes Dataset from Kaggle in order to build a machine learning model. Logistic Regression, Support Vector Machines, and a Naive Bayes Classifier were utilized, and the success of the project depended heavily on feature engineering and probability analysis.
 
+![Image of SVM](https://github.com/Lacovaramichael/Diabetes-Detection/blob/main/Images/SVM.png)
+
 # Project Results
 The result of this project was an optimized Support Vector Machines model that achieved an 87% cross-validated prediction accuracy. The biological factors that were most indicative of a positive diagnosis were also found.
